@@ -2,7 +2,7 @@
 #include <WiFi.h>
 
 // Replace with your network credentials
-const char* ssid     = "Sypder Net"; // This variable tells the SSID ( Name of the wifi connection)
+const char* ssid     = "Sypder Net Alpha"; // This variable tells the SSID ( Name of the wifi connection)
 const char* password = "123456789"; // This str is the password that will be used in this program
 
 WiFiServer server(80); // just to setup the server but aint nobody gonna use webinterface anyways
@@ -23,5 +23,4 @@ void loop(){
   while (client.connected()){
     // basic loop where everything happens
   }
-
 }
