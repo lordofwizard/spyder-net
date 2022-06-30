@@ -9,15 +9,15 @@ note this list will be archived after the complition of the project.
 * [X] Learning basics of EPS-32 device and reading it's documentation throughly
 * [X] Creation of a hotspot WAP (WiFi access point) with ESP-32.
 * [X] Monitoring device connection and temprature managment of the device.
-* [ ] Learning how to make asynchronous WiFi connections with async.h
-* [ ] Writing own library of functions to make async wifi connections.
-* [ ] Writing functionality to check the Number of Devices in a selected area
-* [ ] Making async wifi connections based on the Privious NO.
-* [ ] Learning the [GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output) layout of EPS-32
-* [ ] Testing LED's on BreadBoard
-* [ ] Writing functinality for LED's based on the status of program
-* [ ] Final testing on BreadBoard
-* [ ] Assembly with soldering of the product
+* [X] Learning how to make asynchronous WiFi connections with async.h
+* [X] Writing own library of functions to make async wifi connections.
+* [X] Writing functionality to check the Number of Devices in a selected area
+* [X] Making async wifi connections based on the Privious NO.
+* [X] Learning the [GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output) layout of EPS-32
+* [X] Testing LED's on BreadBoard
+* [X] Writing functinality for LED's based on the status of program
+* [X] Final testing on BreadBoard
+* [X] Assembly with soldering of the product
 * [ ] Publishing this shit.
 
 ### Components
